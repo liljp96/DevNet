@@ -63,4 +63,4 @@ async def clear(ctx,amount=2):
 
 
 #this is the token from the discord dev dashboard for the bot
-client.run("NzYzNjI4NDE4MzkzODMzNDcy.X36eYg.FfDWpZK2t6I3XtVfvhj1s3cRh_4")
+client.run("get updated token from discord")
